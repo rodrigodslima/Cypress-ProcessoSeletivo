@@ -1,4 +1,4 @@
-# Rubeus QA Challenge - Cypress
+# QA Challenge - Cypress
 
 Projeto de automação com Cypress para cobrir os principais pontos reportados no teste das páginas:
 
