@@ -1,0 +1,14 @@
+{
+  "name": "rubeus-qa-cypress",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automated exploratory checks for the Rubeus QA challenge",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "validName": "Rodrigo Daniel",
+  "validEmail": "rodrigo.daniel.qa@example.com",
+  "validPhone": "81999998888",
+  "invalidEmail": "rodrigo.daniel.qaexample.com",
+  "longName": "RodrigoDanielTesteAutomatizadoMuitoLongoRodrigoDanielTesteAutomatizadoMuitoLongoRodrigoDanielTesteAutomatizadoMuitoLongo",
+  "longEmail": "rodrigo.daniel.teste.automatizado.com.muitos.caracteres.demais.no.campo@emailmuitolongoparateste.com.br",
+  "longPhone": "819999988881234567890123456789"
+}
